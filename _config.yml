@@ -65,3 +65,5 @@ Blog: /blog
 # Add links for more focus here
 #special_links:
 #  "Search": https://duckduckgo.com
+
+theme: jekyll-bear-theme
